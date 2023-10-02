@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(37, 3, 38);
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.form-control {
+  border-color: #999595;
+  height: 40px;
+  border-radius: 5px;
+}
+.form-control::placeholder {
+  color: #9f9d9d;
+}
+.nav-item {
+  margin: 5px;
+}
+.navbar {
+  border-bottom: 1px solid #aaaaaa;
+  margin-top: 0px;
+}
+.nav2 .nav-li2 {
+  display: inline-block;
+  margin: 20px;
+  padding: 0;
+}
+.nav2 .nav-li2:hover {
+  color: rgb(37, 3, 38);
+  font-weight: bold;
+  text-decoration: underline;
+}
+.nav2 {
+  border-bottom: 1px solid #a7a7a7;
+}
+.imgb {
+  display: flex;
+  justify-content: center;
+}
+#border {
+  border-right: 1px solid lightgray;
+}
+
+#img6 {
+  margin-right: 100px;
+}
+.alignright {
+  margin-left: 250px;
+}
+.navicons {
+  margin: 3px;
+  font-size: 25px;
+}
+* {
+  list-style-type: none;
+}
+.card-img-top {
+  width: 150px;
+}
+.card {
+  border: 1px solid lightgray;
+  margin: 20px;
+  padding: 10px;
+}
+.img-align {
+  display: flex;
+  justify-content: center;
+}
+.btn-rev {
+  display: flex;
+}
+.btn {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  margin: 2px;
+}
+.review {
+  position: relative;
+  top: 10px;
+}
+.left {
+  border: 1px solid lightgray;
+  float: left;
+  padding: 15px;
+  margin: 20px;
+}
+.right {
+  display: flex;
+  margin: px;
+}
